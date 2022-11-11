@@ -42,7 +42,7 @@ pycparser==2.20
 Pygments==2.6.1
 PyMySQL==0.9.3
 pyrsistent==0.16.0
-pyspark==2.4.5
+pyspark==3.2.2
 python-dateutil==2.8.1
 pytz==2020.1
 pyzmq==18.1.1
